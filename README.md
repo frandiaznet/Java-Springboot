@@ -39,11 +39,9 @@ https://dev.azure.com/romeshdharamgudi/java-springboot
 
 # Set up your build triggers by specifying when the build should be triggered 
 
-![image](https://user-images.githubusercontent.com/113555417/221553982-e62005c4-2c52-49d4-96dc-621b819cf643.png)
-
-
 ![image](https://user-images.githubusercontent.com/113555417/221554468-2a54a3aa-a43e-4714-8484-ced7a33ea936.png)
 
+![image](https://user-images.githubusercontent.com/113555417/221553982-e62005c4-2c52-49d4-96dc-621b819cf643.png)
 
 ![Screenshot 2023-02-18 010257](https://user-images.githubusercontent.com/113555417/219774379-921e26af-4191-4d19-9d25-4c1a22a1584f.jpg)
 
